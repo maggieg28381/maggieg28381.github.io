@@ -1,5 +1,8 @@
 * {
   box-sizing: border-box; }
+head  {
+  color: red; font-size: comic;
+}
 
 body {
   padding: 0;
@@ -10,7 +13,7 @@ body {
   color: #606c71; }
 
 a {
-  color: #1e6bb8;
+  color: red;
   text-decoration: none; }
   a:hover {
     text-decoration: underline; }
